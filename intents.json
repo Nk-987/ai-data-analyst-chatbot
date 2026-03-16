@@ -1,0 +1,29 @@
+{
+  "intents":[
+    {
+      "tag":"greeting",
+      "patterns":["hello","hi","hey","good morning"],
+      "responses":["Hello! I am your AI Data Assistant.","Hi there! Ask me anything about data science."]
+    },
+    {
+      "tag":"data_science",
+      "patterns":["what is data science","explain data science"],
+      "responses":["Data science is the process of extracting insights from data using statistics, machine learning, and programming."]
+    },
+    {
+      "tag":"machine_learning",
+      "patterns":["what is machine learning","explain machine learning"],
+      "responses":["Machine learning is a method where computers learn patterns from data and make predictions without being explicitly programmed."]
+    },
+    {
+      "tag":"python",
+      "patterns":["why python for data science","python for machine learning"],
+      "responses":["Python is popular in data science because of powerful libraries like pandas, numpy, and scikit-learn."]
+    },
+    {
+      "tag":"career",
+      "patterns":["how to become data scientist","career in data science"],
+      "responses":["To become a data scientist learn Python, statistics, machine learning, and build projects using real datasets."]
+    }
+  ]
+}
