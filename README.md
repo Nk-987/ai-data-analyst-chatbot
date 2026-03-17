@@ -1,47 +1,47 @@
-# ai-data-analyst-chatbot
-# AI Data Analyst Chatbot
+# 🤖 AI Data Analyst Chatbot
 
-AI Data Analyst Chatbot is an interactive AI-powered assistant that helps users ask questions about data science concepts and analyze datasets.
+An intelligent chatbot that assists users with data science queries and basic dataset analysis.
 
-## Features
+---
 
-- Conversational AI chatbot
-- Chat memory
-- Dataset upload and analysis
-- Data summary generation
+## 🚀 Features
 
-## Tech Stack
+- 💬 Conversational chatbot
+- 🧠 Context-aware responses
+- 📊 Dataset upload (CSV)
+- 📈 Data preview & summary
+- ⚡ Fast and interactive UI
+
+---
+
+## 🧠 Tech Stack
 
 - Python
 - Streamlit
-- OpenAI API
 - Pandas
+- NLP (basic logic / rule-based)
 
-## How It Works
+---
 
-1. User asks questions through chat interface
-2. AI processes queries using language models
-3. System provides intelligent responses
-4. Users can upload datasets for analysis
+## ⚙️ How It Works
 
-## Installation
-pip install streamlit openai pandas
+1. User inputs query
+2. System processes text
+3. Matches intent / generates response
+4. Optional dataset upload for analysis
 
+---
 
-Run:
+## 📊 Dataset Features
 
+- Data preview
+- Summary statistics
+- Basic insights
 
+---
+
+## ▶️ Run Locally
+
+```bash
+pip install streamlit pandas
 streamlit run app.py
-
-
-## Use Cases
-
-- Data science learning assistant
-- Dataset exploration
-- AI-based Q&A system
-
-## Future Improvements
-
-- Visualization generation
-- Automated insights
-- Model training recommendations
