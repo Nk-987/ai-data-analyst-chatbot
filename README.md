@@ -25,3 +25,23 @@ AI Data Analyst Chatbot is an interactive AI-powered assistant that helps users 
 4. Users can upload datasets for analysis
 
 ## Installation
+pip install streamlit openai pandas
+
+
+Run:
+
+
+streamlit run app.py
+
+
+## Use Cases
+
+- Data science learning assistant
+- Dataset exploration
+- AI-based Q&A system
+
+## Future Improvements
+
+- Visualization generation
+- Automated insights
+- Model training recommendations
